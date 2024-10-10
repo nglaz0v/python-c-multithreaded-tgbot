@@ -3,7 +3,7 @@ APScheduler==3.9.1.post1
 cachetools==5.2.0
 certifi==2022.9.24
 charset-normalizer==2.1.1
-Cython==0.29.32
+cython
 google-api-core==2.10.2
 google-api-python-client==2.65.0
 google-auth==2.14.1

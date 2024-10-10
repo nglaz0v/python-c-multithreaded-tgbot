@@ -1,3 +1,6 @@
+bot/lowlevel/nogil.c
+profiling.prof
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
